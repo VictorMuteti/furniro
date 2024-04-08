@@ -1,0 +1,74 @@
+.nrv{
+    position: relative !important;
+    gap: 1rem !important;
+}
+.txl{
+    position: relative !important;
+    right: 200px !important;
+}
+
+.iconic{
+    position: relative !important;
+    gap: 2rem !important;
+    left: 280px !important;
+
+}
+
+.pmv{
+    position: absolute !important;
+    bottom: 20px !important;
+
+}
+
+.pmr{
+    position: relative;
+    left: 400px;
+}
+
+.clr{
+    background-color: #fff3e3;
+       
+}
+
+.crl{
+    color:#b98a2e ;
+}
+
+.brtns{
+    background-color: #b98a2e;
+    top: 50px;
+    position: relative;
+    border-radius: 0%;
+}
+
+.jbtn{
+    background-color: #b98a2e;
+    position: relative;
+    border-radius: 0%;
+    left: 15px;
+    top: 20px;
+}
+
+.pxl{
+    background-color: #f6f4f9;
+}
+
+.products{
+    position: relative;
+    top: 20px;
+}
+
+.hvr-btn{
+    height: 540px;
+    width: 19.1rem;
+    background-color: black;
+    position: relative;
+    z-index: 1;
+    bottom: 540px;
+    opacity: 0%;
+}
+
+.hvr-btn:hover{
+    transition: all ease-in-out, 3s;
+    opacity: 60%;
+}
